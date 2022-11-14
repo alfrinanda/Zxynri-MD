@@ -5,13 +5,13 @@
 // RECODE BY ZIFABOTZ
 
 //=============『 Utama 』================== //
-global.owner = ['6285828377610'] //ganti pakai nomormu biar bot berfungsi
-global.mods = ['6285828764046'] //ganti pakai nomormu biar bot berfungsi
-global.prems = ['6285828377610'] //ganti pakai nomormu biar bot berfungsi
+global.owner = ['6283165445464'] //ganti pakai nomormu biar bot berfungsi
+global.mods = ['6283165445464] //ganti pakai nomormu biar bot berfungsi
+global.prems = ['6283165445464] //ganti pakai nomormu biar bot berfungsi
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ᴹᴿ᭄ ZifaOffcོ_1ঔৣ꧂'
-global.numberowner = '6285828377610' //ganti pakai nomor mu
+global.nameowner = 'Alfir Nanda Sajiwa Putra'
+global.numberowner = '6283165445464'//ganti pakai nomor mu
 global.instagram = 'https://instagram.com/zalfapontianak' //ganti pakai Instagram mu
 global.github = 'https://github.com/Botynyakamu' //ganti aja pakai githubmu
 global.tt = 'https://vt.tiktok.com/ZSdc6Dht6/' //ganti aja pakai tiktok mu
@@ -19,12 +19,12 @@ global.sc = 'https://youtu.be/lMcwJMp_0rM' //jngn ganti hargai creator
 global.ss = 'https://youtu.be/3m7tRD4RklM' //jngn ganti hargai creator
 global.sss = 'https://youtu.be/PzUH1ApMCig' //jngn ganti hargai creator
 global.yt = 'https://youtube.com/channel/UCeUvY_fIVSAaQ1n5SAylI-A'
-global.dana = '085828764046' //ganti pakai nomor dana mu
-global.pulsa = '085828764046' //ganti pakai nomor pulsa mu
-global.gopay = '085828764046' //ganti pakai nomor Gopay mu
+global.dana = '6283165445464 //ganti pakai nomor dana mu
+global.pulsa = '6283165445464' //ganti pakai nomor pulsa mu
+global.gopay = '6283165445464' //ganti pakai nomor Gopay mu
 
 //=============『 Info Bot 』=================//
-global.namebot = '❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪' //ganti jadiin nama bot mu
+global.namebot = 'Alfirnanda Sajiwa Putra ' //ganti jadiin nama bot mu
 global.gc = 'https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv' //ganti pakai grup mu
 global.web = 'https://instagram.com/zalfapontianak' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://instagram.com/zalfapontianak' //ganti pakai Instagram mu
